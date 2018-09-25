@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.6)
-project(SAMSENGINE)
+project(SAMENGINE)
 
 add_executable(sandbox
 	src/main.cpp
